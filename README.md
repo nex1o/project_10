@@ -1,5 +1,6 @@
 ## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Яндекс. Практикум "Аналитик данных"</b></a>
 
+Описание всех проектов:
 <table>
 <tr>
 <td><b>Номер (по курсу)</b></td>
