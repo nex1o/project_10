@@ -32,6 +32,12 @@
 <td><a href="https://github.com/nex1o/yandex_DA/blob/8ecc1d4ceb0b7252517511536f7f2be323915486/project_9.ipynb" target="_blank"><b>Принятие решений в бизнесе</b></a></td>
 <td><b>Приоритизация гипотез и анализ результатов А/В-тестирования</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
+<tr>
+<td>8</td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/65c382d3d2adbad23f48d7eef5fffdeedf726566/project_8.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><b>Исследование причин провала рекламных кампаний приложения</b></td>
+<td>pandas, matplotlib, plotly</td>
+
   
 </table>
 <br/><br/>
