@@ -20,12 +20,12 @@
 <tr>
 <td>11</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/4a003671f24bc088cd5889cef15d5a5461adaada/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
-<td><b>А/А/В-тестирование и применение поправок на множественное сравнение</b></td>
+<td><b>Исследование рынка общественного питания Москвы</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>10</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/620dc16530a2763c51f7353b25b45a2c0039b3c6/Project_10.ipynb" target="_blank"><b>Сборный проект №2<br>А/А/В-тесты</b></a></td>
-<td><b>Исследование рынка общественного питания Москвы</b></td>
+<td><b>Изучение поведения пользователей мобильного приложения</b></td>
 <td>pandas, matplotlib, plotly, folium</td>
 <tr>
 <td>9</td>
