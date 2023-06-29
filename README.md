@@ -9,8 +9,8 @@
 <td><b>Используемые библиотеки</b></td>
 <tr>
 <td>13</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/620dc16530a2763c51f7353b25b45a2c0039b3c6/Project_10.ipynb" target="_blank"><b>Сборный проект №2<br>А/А/В-тесты</b></a></td>
-<td><b>А/А/В-тестирование и применение поправок на множественное сравнение</b></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/6903b939ea09ac1c6a25f4d1136d7d045d047687/project_13.ipynb" target="_blank"><b>Выпускной проект<br>А/А/В-тесты</b></a></td>
+<td><b>Анализ поведения пользователей в мобильном приложении</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>12</td>
