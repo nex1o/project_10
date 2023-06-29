@@ -39,12 +39,12 @@
 <td>pandas, matplotlib, plotly</td>
 <tr>
 <td>3</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/7cccf2ff2db873fe35501db6aee24c8f0cb885a9/project_3.ipynb" target="_blank"><b>Анализ рынка недвижимости СПб</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_3.ipynb" target="_blank"><b>Анализ рынка недвижимости СПб</b></a></td>
 <td><b>Анализ различных факторов на рыночную цену квартиры в СПб</b></td>
 <td>pandas, matplotlib, seaborn</td>
 <tr>
 <td>2</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/7cccf2ff2db873fe35501db6aee24c8f0cb885a9/project_2.ipynb" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_2.ipynb" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
 <td><b>Анализ влияния семейного положения и количества детей клиента на факт погашения кредита в срок</b></td>
 <td>pandas, seaborn</td>
 <tr>
