@@ -9,14 +9,14 @@
 <td><b>Используемые библиотеки</b></td>
 <tr>
 <td>13</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/6903b939ea09ac1c6a25f4d1136d7d045d047687/project_13.ipynb" target="_blank"><b>Выпускной проект<br>А/А/В-тесты</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/6903b939ea09ac1c6a25f4d1136d7d045d047687/project_13.ipynb" target="_blank"><b>Выпускной проект</b></a></td>
 <td><b>Анализ поведения пользователей в мобильном приложении</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>12</td>
 <td><a href="" target="_blank"><b>Автоматизация</b></a></td>
 <td><b>Дашборд для Яндекс.Дзена</b></td>
-<td>добавит позже</td>
+<td>добавить позже</td>
 <tr>
 <td>11</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/4a003671f24bc088cd5889cef15d5a5461adaada/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
