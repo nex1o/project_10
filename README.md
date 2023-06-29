@@ -10,7 +10,7 @@
 <tr>
 <td>13</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/6903b939ea09ac1c6a25f4d1136d7d045d047687/project_13.ipynb" target="_blank"><b>Выпускной проект</b></a></td>
-<td><b>Анализ поведения пользователей в мобильном приложении</b></td>
+<td><b>Продуктовая аналитика в мобильном приложении - аналог Авито</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>12</td>
