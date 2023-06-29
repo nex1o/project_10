@@ -49,7 +49,7 @@
 <td>pandas, seaborn</td>
 <tr>
 <td>1</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/65c382d3d2adbad23f48d7eef5fffdeedf726566/project_1.ipynb" target="_blank"><b>Музыка больших городов</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/29da357855b70bccf717f9c693da26c80fc4eb5e/project_1.ipynb" target="_blank"><b>Музыка больших городов</b></a></td>
 <td><b>Анализ музыкальных предпочтений юзеров из Мск и СПб и выявление особенностей для каждого региона</b></td>
 <td>pandas</td>
 
