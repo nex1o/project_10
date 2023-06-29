@@ -14,19 +14,19 @@
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>12</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/620dc16530a2763c51f7353b25b45a2c0039b3c6/Project_10.ipynb" target="_blank"><b>Сборный проект №2<br>А/А/В-тесты</b></a></td>
-<td><b>Исследование рынка общественного питания Москвы</b></td>
-<td>pandas, scipy.stats, matplotlib, plotly</td>
+<td><a href="" target="_blank"><b>Автоматизация</b></a></td>
+<td><b>Дашборд для Яндекс.Дзена</b></td>
+<td>добавит позже</td>
 <tr>
 <td>11</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/4a003671f24bc088cd5889cef15d5a5461adaada/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
 <td><b>Исследование рынка общественного питания Москвы</b></td>
-<td>pandas, scipy.stats, matplotlib, plotly</td>
+<td>pandas, matplotlib, plotly, folium</td>
 <tr>
 <td>10</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/620dc16530a2763c51f7353b25b45a2c0039b3c6/Project_10.ipynb" target="_blank"><b>Сборный проект №2<br>А/А/В-тесты</b></a></td>
 <td><b>Изучение поведения пользователей мобильного приложения</b></td>
-<td>pandas, matplotlib, plotly, folium</td>
+<td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>9</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/8ecc1d4ceb0b7252517511536f7f2be323915486/project_9.ipynb" target="_blank"><b>Принятие решений в бизнесе</b></a></td>
