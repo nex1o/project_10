@@ -41,7 +41,7 @@
 <td>1</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/65c382d3d2adbad23f48d7eef5fffdeedf726566/project_8.ipynb" target="_blank"><b>Музыка больших городов</b></a></td>
 <td><b>Анализ музыкальных предпочтений юзеров из Мск и СПб и выявление особенностей для каждого региона</b></td>
-<td>pandas, matplotlib, plotly</td>
+<td>pandas</td>
   
 </table>
 <br/><br/>
