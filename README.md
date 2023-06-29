@@ -33,7 +33,7 @@
 <td><b>Приоритизация гипотез и анализ результатов А/В-тестирования</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
-<td>8</td>
+<td>7</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_8.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td><b>Исследование причин провала рекламных кампаний приложения</b></td>
 <td>pandas, matplotlib, plotly</td>
