@@ -33,15 +33,21 @@
 <td><b>Приоритизация гипотез и анализ результатов А/В-тестирования</b></td>
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
+<td>8</td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Продвинутый SQL</b></a></td>
+<td><b>разные типы оконных функций; расчет бизнес-метрик с помощью SQL-запросов; подключение к базе данных с помощью Python и выгрузка данных в дф;
+работа с клиентом базы данных</b></td>
+<td>PostgreSQL</td> 
+<tr>
 <td>7</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td><b>Исследование причин провала рекламных кампаний приложения</b></td>
 <td>pandas, matplotlib, plotly</td>
 <tr>
-<td>5</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Продвинутый SQL</b></a></td>
-<td><b>Исследование причин провала рекламных кампаний приложения</b></td>
-<td>pandas, matplotlib, plotly</td> 
+<td>6</td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Базовый SQL</b></a></td>
+<td><b>срезы данных и составление подзапросов; применение агрегирующих функций (AVG, SUM, COUNT etc); использование разных JOIN (LEFT, RIGHT, CROSS etc)</b></td>
+<td>PostgreSQL</td> 
 <tr>
 <td>5</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/c4dad76b8810fae4ba2c1007d397b0d8302611a2/project_5.ipynb" target="_blank"><b>Сборный Проект — 1</b></a></td>
