@@ -34,7 +34,7 @@
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>8</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Продвинутый SQL</b></a></td>
+<td><a href="" target="_blank"><b>Продвинутый SQL</b></a></td>
 <td><b>разные типы оконных функций; расчет бизнес-метрик с помощью SQL-запросов; подключение к базе данных с помощью Python и выгрузка данных в дф;
 работа с клиентом базы данных</b></td>
 <td>PostgreSQL</td> 
@@ -45,7 +45,7 @@
 <td>pandas, matplotlib, plotly</td>
 <tr>
 <td>6</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Базовый SQL</b></a></td>
+<td><a href="" target="_blank"><b>Базовый SQL</b></a></td>
 <td><b>срезы данных и составление подзапросов; применение агрегирующих функций (AVG, SUM, COUNT etc); использование разных JOIN (LEFT, RIGHT, CROSS etc)</b></td>
 <td>PostgreSQL</td> 
 <tr>
