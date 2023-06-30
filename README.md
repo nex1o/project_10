@@ -34,7 +34,7 @@
 <td>pandas, scipy.stats, matplotlib, plotly</td>
 <tr>
 <td>7</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_8.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td><b>Исследование причин провала рекламных кампаний приложения</b></td>
 <td>pandas, matplotlib, plotly</td>
 <tr>
