@@ -16,10 +16,10 @@
 <td>12</td>
 <td><a href="" target="_blank"><b>Автоматизация</b></a></td>
 <td><b>Дашборд для Яндекс.Дзена</b></td>
-<td>добавить позже</td>
+<td>запуск скриптов через командную строку, Tableau, yandex cloud</td>
 <tr>
 <td>11</td>
-<td><a href="https://github.com/nex1o/yandex_DA/blob/4a003671f24bc088cd5889cef15d5a5461adaada/project_11.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/6e68a5de572fb1b770f4d7c89e3d57f1d08f0534/project_12.ipynb" target="_blank"><b>Как рассказать историю с помощью данных</b></a></td>
 <td><b>Исследование рынка общественного питания Москвы</b></td>
 <td>pandas, matplotlib, plotly, folium</td>
 <tr>
