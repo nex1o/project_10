@@ -38,6 +38,20 @@
 <td><b>Исследование причин провала рекламных кампаний приложения</b></td>
 <td>pandas, matplotlib, plotly</td>
 <tr>
+<td>5</td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/983bd4ada0ce3dc5b9b4ab0ec60b462f47df626b/project_7.ipynb" target="_blank"><b>Продвинутый SQL</b></a></td>
+<td><b>Исследование причин провала рекламных кампаний приложения</b></td>
+<td>pandas, matplotlib, plotly</td> 
+<tr>
+<td>5</td>
+<td><a href="" target="_blank"><b>Сборный Проект — 1</b></a></td>
+<td><b>Анализ данных игровой индустрии для выявления закономерностей, определяющих успех проекта</b></td>
+<td>pandas, matplotlib, seaborn</td>
+<tr>
+<td>4</td>
+<td><a href="" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td><b>Анализ данных юзеров двух тарифных планов сотовой связи – выявление наиболее прибольного</b></td>
+<td>pandas, matplotlib, plotly</td>
 <td>3</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_3.ipynb" target="_blank"><b>Анализ рынка недвижимости СПб</b></a></td>
 <td><b>Анализ различных факторов на рыночную цену квартиры в СПб</b></td>
