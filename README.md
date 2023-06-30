@@ -52,6 +52,7 @@
 <td><a href="" target="_blank"><b>Статистический анализ данных</b></a></td>
 <td><b>Анализ данных юзеров двух тарифных планов сотовой связи – выявление наиболее прибольного</b></td>
 <td>pandas, matplotlib, plotly</td>
+<tr>
 <td>3</td>
 <td><a href="https://github.com/nex1o/yandex_DA/blob/122a8753fb72a5e83d3021604faba1bdc65c059b/project_3.ipynb" target="_blank"><b>Анализ рынка недвижимости СПб</b></a></td>
 <td><b>Анализ различных факторов на рыночную цену квартиры в СПб</b></td>
