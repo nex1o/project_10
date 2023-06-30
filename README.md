@@ -44,12 +44,12 @@
 <td>pandas, matplotlib, plotly</td> 
 <tr>
 <td>5</td>
-<td><a href="" target="_blank"><b>Сборный Проект — 1</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/c4dad76b8810fae4ba2c1007d397b0d8302611a2/project_5.ipynb" target="_blank"><b>Сборный Проект — 1</b></a></td>
 <td><b>Анализ данных игровой индустрии для выявления закономерностей, определяющих успех проекта</b></td>
 <td>pandas, matplotlib, seaborn</td>
 <tr>
 <td>4</td>
-<td><a href="" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td><a href="https://github.com/nex1o/yandex_DA/blob/c4dad76b8810fae4ba2c1007d397b0d8302611a2/project_4.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
 <td><b>Анализ данных юзеров двух тарифных планов сотовой связи – выявление наиболее прибольного</b></td>
 <td>pandas</td>
 <tr>
